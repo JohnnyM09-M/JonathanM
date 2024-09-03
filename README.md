@@ -5,7 +5,9 @@ Fueled by a curiosity for technology, I am an enthusiastic learner with a passio
 <h2> Projet Learning  </h2> 
 I am currently working on some at-home projects and want to develop a DNS server for my home network.
 <h3> 📝 Certifications 📝 </h3>
-- [Google Cyber Security] https://coursera.org/share/eec2c6f39709437aead8207845e72922 
+-[Google Cyber Security] https://coursera.org/share/eec2c6f39709437aead8207845e72922 
+
+-[UC San Diego Division of Extended Studies] https://drive.google.com/file/d/1UAA4DjLnwBcnpYkA0tYavWVlU0zDAf0S/view?usp=drive_link 
 <h3> Currently Working on </h3>
 -CompTIA + Certification 
 <h4>Plans for the Future </h4>
