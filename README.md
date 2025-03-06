@@ -9,6 +9,7 @@ I am currently working on some at-home projects, this is one that I have been wo
 
 
 <h3> 📝 Certifications 📝 </h3>
+
 -[Google Cyber Security](https://drive.google.com/file/d/1CXLCzKyK-YOxKOaG2kyZi3i2thEZ6rsi/view?usp=sharing) 
 
 -[UC San Diego Division of Extended Studies](https://drive.google.com/file/d/1UAA4DjLnwBcnpYkA0tYavWVlU0zDAf0S/view?usp=drive_link)
