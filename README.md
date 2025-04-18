@@ -6,6 +6,7 @@ Fueled by a curiosity for technology, I am an enthusiastic learner with a passio
 I am currently working on some at-home projects, this is one that I have been working on 
 
 -[Windows Server + Active Directory Installation](https://github.com/JohnnyM09-M/Windows-Server-Active-Directory-Installation)
+-[Home Lab: Personal DNS Server](https://github.com/JohnnyM09-M/At-home-DNS-Sever-)
 
 
 <h3> 📝 Certifications 📝 </h3>
